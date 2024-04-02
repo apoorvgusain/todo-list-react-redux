@@ -23,7 +23,7 @@ To run this app locally, follow these steps:
 <br>
    cd todo-app
 <br>
-<b>Install Dependencies:<b/>Install the required dependencies using npm or yarn. Since the node_modules directory is not uploaded to GitHub, you need to install dependencies locally:
+<b>Install Dependencies:</b>Install the required dependencies using npm or yarn. Since the node_modules directory is not uploaded to GitHub, you need to install dependencies locally:
 <br>
    npm install
 <br>
