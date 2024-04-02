@@ -1,0 +1,14 @@
+*{
+  /* border: 1px solid; */
+}
+body{
+  background-color:blueviolet
+}
+#todoListContainer{
+  background-color: #1C1A42;
+color:white;
+}
+
+.addItem{
+  margin-right: 2%;
+}
